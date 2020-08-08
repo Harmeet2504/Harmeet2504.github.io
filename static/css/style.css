@@ -21,11 +21,10 @@ html {
   .jumbotron
   { 
     color:white;
-    background-color:lightgray;
     background-size: 100% 90%;
-    margin-bottom:0
+    margin-bottom:0;
     font-weight: bold;
-	font-family: Georgia, Times, "Times New Roman", serif;
+	  font-family: Georgia, Times, "Times New Roman", serif;
   }
   .lead{
     color:white;
