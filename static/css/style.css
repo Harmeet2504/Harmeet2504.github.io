@@ -20,14 +20,20 @@ html {
   
   .jumbotron
   { 
-    color:white;
+    /* color:white; */
     background-size: 100% 90%;
     margin-bottom:0;
     font-weight: bold;
 	  font-family: Georgia, Times, "Times New Roman", serif;
   }
+  .display-4
+  {
+    font-weight: bold;
+	  font-family: Georgia, Times, "Times New Roman", serif;
+  }
+  
   .lead{
-    color:white;
+    color:black;
     padding-left: 40px;
     font-weight: bold;
 	font-family: Georgia, Times, "Times New Roman", serif;
